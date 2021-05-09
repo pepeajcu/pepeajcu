@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pepeajcu
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning Javascript 
