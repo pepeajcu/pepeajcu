@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pepeajcu
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Javascript 
+- 👀 I’m Web Developer, Data Analytics, Data Science
+- 🌱 I Develop in Javascript, Python, PHP 
